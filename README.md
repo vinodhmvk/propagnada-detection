@@ -1,1 +1,1 @@
-# propagnada-detection
+# Propagnada Detection in news articles
